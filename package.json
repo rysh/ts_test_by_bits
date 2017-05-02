@@ -1,0 +1,19 @@
+{
+  "name": "ts_test_by_bits",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "unit"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rysh/ts_test_by_bits.git"
+  },
+  "author": "rysh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/rysh/ts_test_by_bits/issues"
+  },
+  "homepage": "https://github.com/rysh/ts_test_by_bits#readme"
+}
