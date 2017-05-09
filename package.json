@@ -1,10 +1,15 @@
 {
   "name": "ts_test_by_bits",
   "version": "1.0.0",
-  "description": "",
+  "description": "TypeScriptでユニットテストを始めるためのスパイク",
   "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "ava": "^0.19.1",
+    "webpack": "^2.2.1"
+  },
   "scripts": {
-    "test": "unit"
+    "test": "ava"
   },
   "repository": {
     "type": "git",
